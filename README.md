@@ -1,4 +1,4 @@
-# DataflowAna
+# dfAna
 A light static analysis tool that uses ASM framework to perform control flow analysis and data flow analysis on Java bytecode classes.
 ## Developer
 - Essa Imhmed
