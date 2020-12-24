@@ -10,3 +10,5 @@ A class assignment for CS 581: Advanced Software Engineering @ NMSU, Spring 2015
 dfAna mainly does the following:
 - Collecting information about the defination and use of program variables.
 - Analyzing mthods of a class to extract a control flow graph (CFG).
+## Project status
+ It's no longer actively maintained.
