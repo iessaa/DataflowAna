@@ -1,5 +1,5 @@
-# dfAna
-A light static analysis tool that uses ASM framework to perform control flow analysis and data flow analysis on Java bytecode classes.
+# DFAna
+A light static analysis tool built on the top of ASM framework for control flow and data flow analysis.
 ## Developer
 - Essa Imhmed
 ## Motivation
