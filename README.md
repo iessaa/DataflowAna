@@ -1,5 +1,5 @@
 # ConDaFaAna
-A light static analysis tool built on the top of ASM framework for control flow and data flow analysis.
+A light static analysis tool built on the top of ASM framework for control flow and data flow analysis of java bytecode files.
 ## Developer
 - Essa Imhmed
 ## Motivation
