@@ -1,4 +1,4 @@
-# CDFAna
+# ConDaFAna
 A light static analysis tool built on the top of ASM framework for control flow and data flow analysis.
 ## Developer
 - Essa Imhmed
